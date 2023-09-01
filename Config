@@ -3,7 +3,7 @@ import os
 class Config(object):
     API_ID = int(28645948) #dont change
     API_HASH = "0d1cca3a9f4f4beb7ae8508f05ec4fcd" #dont change 
-    BOT_TOKEN = "6673049803:AAHOsVq6u6SB4VbzeR2mGE8JD0MlT5LKQGY" #fill your telegram bot token
+    BOT_TOKEN = "6494645239:AAFMt0zq7GQbpx7QQetXv04DNq9cPG3FDzU" #fill your telegram bot token
     STRING_SESSION = "1BVtsOIEBu6n4Xavu9UzGPfnzrpZcxwNxIPcOFJ6Yjo5shY-rcVoSnJHVGNNNxxOY7fXMrZ3Vv5xEUYuxd1O5Q_mQhdAmZiMVa7pSSKK6AnWbVmEAXrtiHnQsHvu0z82UnL2YNFSIlZ68I8WdEZBM3-YOD4J0x63sDamYQE2mYjJLJOl8zWnXTJUEzDovT0ct9LimJqgQJr6JDuVAfVY1ajzYg9Wiz-cs-1d5H5tW7ykaErF3XIsbPZ1SG1nQJjEvtuiRQ9Z1tA8Sp48LVhcHEzp50RIApUHAIy9DySyQoFbXKbszvLDgaH3H6kBdkxg_coaVUKuqoG9F5RwTziiBZsWkbMoVoXY=" #an Telethon Session 
     MANAGEMENT_MODE = None #Dont change
     HEROKU_MODE = None #dont change
